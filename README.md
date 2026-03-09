@@ -1,16 +1,34 @@
-## Hi there 👋
+# Привет, я Александр! 👋
 
-<!--
-**siroptull-tech/siroptull-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Developer | DevOps Enthusiast
 
-Here are some ideas to get you started:
+Я перехожу в сферу IT, совмещая фундаментальный технический бэкграунд с современным стеком разработки. Моя цель — создавать надежные бэкенд-решения и автоматизировать инфраструктуру.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Мой стек технологий:
+- **Языки:** Python (FastAPI)
+- **Базы данных:** PostgreSQL
+- **DevOps & Infrastructure:** Docker, Docker Compose, Git
+- **Инструменты:** Linux, SQL
+
+---
+
+### 🏗 Над чем я работаю:
+* **[mini_jira_app](ссылка_на_твой_репозиторий)** — Система управления задачами на FastAPI. Реализована контейнеризация через Docker для быстрого развертывания.
+* Изучаю лучшие практики CI/CD и глубокую настройку PostgreSQL.
+
+---
+
+### 🎓 Образование и опыт:
+* **Магистратура:** МГУ им. Огарева (Саранск).
+* **Бакалавриат:** АПИ НГТУ им. Р.Е. Алексеева.
+* Имею многолетний опыт работы на крупном научно-исследовательском предприятии, что приучило меня к дисциплине и ответственности за результат.
+
+---
+
+### 📫 Как со мной связаться:
+* **Город:** Саров, Россия
+* **Цель:** Ищу позицию Junior Python Developer / DevOps Engineer с возможностью удаленной работы.
+
+![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=siroptull-tech&show_icons=true&theme=radical)
