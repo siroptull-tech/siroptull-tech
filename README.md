@@ -8,9 +8,9 @@
 
 ### 🛠 Мой стек технологий:
 - **Языки:** Python (FastAPI)
-- **Базы данных:** PostgreSQL
+- **Базы данных:** PostgreSQL, SQL
 - **DevOps & Infrastructure:** Docker, Docker Compose, Git
-- **Инструменты:** Linux, SQL
+- **Инструменты:** Git, Linux
 
 ---
 
@@ -19,6 +19,17 @@
 * Изучаю лучшие практики CI/CD и глубокую настройку PostgreSQL.
 
 ---
+
+🏗 Проекты
+
+mini_jira_app
+Task management API на FastAPI с PostgreSQL и Docker.
+
+telegram-cafe-bot
+Telegram бот для взаимодействия клиентов с кафе.
+
+telegram-weather-bot
+Telegram бот для получения прогноза погоды.
 
 ### 🎓 Образование и опыт:
 * **Магистратура:** МГУ им. Огарева (Саранск).
