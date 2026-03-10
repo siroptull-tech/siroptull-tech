@@ -20,17 +20,6 @@
 
 ---
 
-🏗 Проекты
-
-mini_jira_app
-Task management API на FastAPI с PostgreSQL и Docker.
-
-telegram-cafe-bot
-Telegram бот для взаимодействия клиентов с кафе.
-
-telegram-weather-bot
-Telegram бот для получения прогноза погоды.
-
 ### 🎓 Образование и опыт:
 * **Магистратура:** МГУ им. Огарева (Саранск).
 * **Бакалавриат:** АПИ НГТУ им. Р.Е. Алексеева.
@@ -40,6 +29,6 @@ Telegram бот для получения прогноза погоды.
 
 ### 📫 Как со мной связаться:
 * **Город:** Саров, Россия
-* **Цель:** Ищу позицию Junior Python Developer / DevOps Engineer с возможностью удаленной работы.
+* **Цель:** Ищу позицию Middle Python Developer / DevOps Engineer с возможностью удаленной работы.
 
 ![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=siroptull-tech&show_icons=true&theme=radical)
