@@ -25,7 +25,7 @@ mini_jira_app — Task Management система.
 Что внутри: CRUD для задач, работа с БД через ORM, полная контейнеризация для быстрого развертывания.
 
 🎓 Образование и бэкграунд
-Магистратура: МГУ им. Огарева.
+Магистратура: МГУ им. Огарева (Информационные системы и технологии).
 
 Бакалавриат: АПИ НГТУ им. Р.Е. Алексеева.
 
@@ -34,6 +34,4 @@ mini_jira_app — Task Management система.
 📫 Контакты
 Локация: Саров, Россия
 
-Работа: Ищу позицию Junior+ / Middle Python Developer или DevOps. Готов к удаленному формату.
-
-![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=siroptull-tech&show_icons=true&theme=radical)
+Работа: Ищу позицию Junior+ / Middle Python Developer или Junior DevOps. Готов к удаленному формату.
